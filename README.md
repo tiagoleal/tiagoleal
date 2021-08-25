@@ -1,16 +1,85 @@
-### Hi there 👋
+<h2 align="center">Hi 👋, I'm Tiago Silva Leal</h2>
 
-<!--
-**tiagoleal/tiagoleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Software Engineer with over 10 years of experience in a wide of Technologies on Software Development web using Framework Laravel, backend and frontend of projects using PHP, Python and Javascript. More than three years of experience developing projects using rest apis and microservice structure with language Ruby on Rails, NodeJS, ReactJS and React Native.
 
-Here are some ideas to get you started:
+- 🔭 🔍 In constant learning and searching of new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Elixir**
+
+- 📫 How to reach me: *tiago.sleal12@gmail.com*
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/tiagosleal" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Tiago-Leal" height="30" width="40" /></a>
+</p>
+ 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.digitalocean.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-official.svg" alt="digital-ocean" width="50" height="40"/>
+  </a>
+  <a href="https://heroku.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="shell Script" width="40" height="40"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="laravel" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://rubyonrails.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="rubyonrails" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node" width="90" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
+  </a>
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagoleal&show_icons=true&locale=en" alt="Tiago-Leal" />
+</p>
