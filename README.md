@@ -22,9 +22,6 @@ Full Stack Software Engineer with over 10 years of experience in a wide of Techn
   <a href="https://heroku.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
-  </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="nodejs" width="40" height="40"/>
   </a>
