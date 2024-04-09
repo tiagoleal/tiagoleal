@@ -1,10 +1,10 @@
 <h2 align="center">Hi 👋, I'm Tiago Silva Leal</h2>
 
-Full Stack Software Engineer with over 10 years of experience in a wide of Technologies on Software Development web using Framework Laravel, backend and frontend of projects using PHP, Python and Javascript. More than three years of experience developing projects using rest apis and microservice structure with language Ruby on Rails, NodeJS, ReactJS and React Native.
+Full Stack Software Engineer with over 10 years of experience in a wide of Technologies on Software Development web using Framework Laravel, backend and frontend of projects using PHP, Python and Javascript. More than six years of experience developing projects using rest API and microservice structures with language Ruby on Rails, NodeJS, ReactS/NextJS, and React Native.
 
-- 🔭 🔍 In constant learning and searching of new challenges.
+- 🔭 🔍 In constant learning and searching for new challenges.
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **Elixir** and making a Full Cycle 3.0 course.
 
 - 📫 How to reach me: *tiago.sleal12@gmail.com*
 
