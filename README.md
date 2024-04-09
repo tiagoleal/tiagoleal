@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Tiago Silva Leal</h2>
 
-Full Stack Software Engineer with over 10 years of experience in a wide of Technologies on Software Development web using Framework Laravel, backend and frontend of projects using PHP, Python and Javascript. More than six years of experience developing projects using rest API and microservice structures with language Ruby on Rails, NodeJS, ReactS/NextJS, and React Native.
+Full Stack Software Engineer with great experience developing projects using Restful APIs, application monoliths, and microservice structures with Ruby on Rails, NodeJS, and ReactJS/NextJS. Like to participate in open-source projects, spread knowledge, and share experience. Dedicated professional and moves to new challenges, easy to teamwork. Able to add value to his assignments and work with passion and enthusiasm to ensure a positive and successful outcome.
 
 - 🔭 🔍 In constant learning and searching for new challenges.
 
