@@ -4,7 +4,7 @@ Full Stack Software Engineer with great experience developing projects using Res
 
 - 🔭 🔍 In constant learning and searching for new challenges.
 
-- 🌱 I’m currently learning **Elixir** and making a Full Cycle 3.0 course.
+- 🌱 I’m currently learning **Elixir**.
 
 - 📫 How to reach me: *tiago.sleal12@gmail.com*
 
